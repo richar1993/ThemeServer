@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MD Themes</string>
+    <string name="ok">Acceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="network_required">"Check your phone's Internet connection and try again."</string>
+    <string name="register_preparing">Preparando</string>
+    <string name="permission_storage_need_write_access_on_msg_download">permission_storage_need_write_access_on_msg_download</string>
+    <string name="register_try_again_later">Unable to connect. Please try again later.</string>
+    <string name="permission_storage_need_write_access_request">Allow WhatsApp access to your device\'s photos, media, and files.</string>
+    <string name="gdpr_report_downloading">Downloading</string>
+    <string name="themes_alert_lightdarkInfo">Revisar antes de aplicar si el tema se esta aplicando en modo noche o dia dependiendo al color del tema</string>
+    <string name="media_loading">Cargando Media</string>
+    <string name="jo_mods">By Yousef Al Basha</string>
+</resources>
